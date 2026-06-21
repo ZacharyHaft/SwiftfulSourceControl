@@ -14,7 +14,7 @@ struct HomeView: View {
     var body: some View {
         Text("Screen 2!")
         VStack {
-            Text("Hello!")
+            Text("Hello, world!")
             Text("Screen 1!")
 
         }
