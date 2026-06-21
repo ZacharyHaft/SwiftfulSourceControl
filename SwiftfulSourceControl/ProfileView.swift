@@ -14,7 +14,7 @@ struct ProfileView: View {
     var body: some View {
         Text("Name!")
             .onAppear {
-                
+                // do something
             }
     }
 }
