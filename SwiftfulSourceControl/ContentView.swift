@@ -50,15 +50,14 @@ struct ContentView: View {
                             Image(systemName: "globe")
                                 .imageScale(.large)
                                 .foregroundStyle(.tint)
-                            Text("Swiftful!")
+                            Text("Swiftful Thinking!")
                             
                        
                             
-                            Button("Subscribe now!") {
+                            Button("Subscribe!") {
                                 
                             }
-                            
-                            Rectangle()
+
                         }
                         .padding()
                     }
