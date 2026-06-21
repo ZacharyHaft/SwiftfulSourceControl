@@ -18,9 +18,6 @@ struct HomeView: View {
             Text("Screen 1!")
 
         }
-        .onAppear{
-            // analytics
-        }
         .background(Color.red)
     }
     
